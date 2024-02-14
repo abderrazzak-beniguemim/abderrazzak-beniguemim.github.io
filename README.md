@@ -22,14 +22,9 @@ We specialize in capturing the essence of life through the lens. Our team of tal
 
 Stay updated with our latest works and announcements:
 
-- [Facebook](https://facebook.com/abdelrrazzakweb) 📘
-- [Twitter](https://twitter.com/__abdelrrazzak) 🐦
-- [Instagram](https://instagram.com/abdelrrazzakweb) 📸
-- Email: [noreply@example.com](mailto:noreply@example.com) ✉️
-
-## Contribute 🤝
-
-We welcome contributions and feedback. If you have any suggestions or would like to collaborate, feel free to reach out!
+- [Facebook](https://www.facebook.com/abderrazzak.beniguemim) 📘
+- [Instagram](https://www.instagram.com/abderrazzak_beniguemim/) 📸
+- Email: [beniguemim.abderrazzak@gmail.com](mailto:beniguemim.abderrazzak@gmail.com) ✉️
 
 ## License 📝
 
